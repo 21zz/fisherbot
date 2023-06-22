@@ -1,5 +1,5 @@
-# FISHERBOT
-A weird school project 
+# FISHERBOT - discontinued
+Development will not continue as I plan to delete my Discord account.
 
 ## Requirements
 ### Generation of SQLite3 `.db` file and `.sql` scripts 
